@@ -44,8 +44,6 @@ class WeatherViewController: UIViewController, UITextFieldDelegate {
         
         searchTextField.text = ""
     }
-    
-    
 
 }
 
